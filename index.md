@@ -1,7 +1,3 @@
----
-title: Welcome to my blog
----
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
